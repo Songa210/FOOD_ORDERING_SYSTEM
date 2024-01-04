@@ -48,7 +48,7 @@ const Navbar = () => {
   );
 
   return (
-    <header className="max-w-screen-2xl container max-auto">
+    <header className="max-w-screen-2x1 container max-auto xl:px-24 px-24">
       <div class="navbar ">
         <div class="navbar-start">
           <div class="dropdown">
